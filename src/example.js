@@ -1,2 +1,3 @@
-var unused = "double quotes missing semicolon"
-console.log("hello")
+const example = 'this is valid JavaScript';
+
+export default example;
